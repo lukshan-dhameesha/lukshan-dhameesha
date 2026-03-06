@@ -1,5 +1,5 @@
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXlnN3Z2YWdnbTRjOWg2MzFvZG1rNjNnb3d2NzE4cTZ2ZjR4bGZyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif/width="300px">
-# 👋 Hello, I'm Lukshan Dhameesha
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXlnN3Z2YWdnbTRjOWg2MzFvZG1rNjNnb3d2NzE4cTZ2ZjR4bGZyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif"> 
+👋 Hello, I'm Lukshan Dhameesha
 
    
 ## 📌 Basic Information
