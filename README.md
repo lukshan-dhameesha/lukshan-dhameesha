@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTEwM3NubHVzdmlidmN5NDY1Nm5rZ3N6YnJuMHR4Z3Z6MTNqMHB5bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7QGbR1sAd2oXVIKhqs/giphy.gif" width="700px">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTEwM3NubHVzdmlidmN5NDY1Nm5rZ3N6YnJuMHR4Z3Z6MTNqMHB5bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7QGbR1sAd2oXVIKhqs/giphy.gif" width="300px">
 # 👋 Hello, I'm Lukshan Dhameesha
 
    
